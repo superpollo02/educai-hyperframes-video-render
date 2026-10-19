@@ -1,0 +1,12 @@
+{
+  "name": "educai-hyperframes-video-render",
+  "displayName": "EducAI HyperFrames EdTech Video Render Suite",
+  "version": "1.0.0",
+  "description": "Programmatic EdTech & Moodle LMS video rendering suite for Antigravity powered by HyperFrames. Templates for course showcases, tripartite structures, SCORM trivias, and step-by-step tutorials.",
+  "author": "superpollo02",
+  "suggestedPrompts": [
+    "Create a 120-second Moodle integration tutorial with step progress bar and audio",
+    "Build a 60-second tripartite course showcase with SCORM gamification demo",
+    "Adapt an existing EdTech Moodle video composition into 9:16 vertical for Reels and Shorts"
+  ]
+}
