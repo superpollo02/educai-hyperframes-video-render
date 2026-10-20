@@ -4,6 +4,15 @@ Todas las habilidades, descubrimientos técnicos y plantillas de este proyecto s
 
 ---
 
+## [v1.3.0] - 2026-10-19: Arquetipo Formativo Médico Dual Arena & Warm Focus BGM
+### 🧠 Nuevas Habilidades y Arquetipos
+- **Arquetipo Comparativo "Dual Arena" (Administración vs. Gestión):**
+  - Estructuración pedagógica andragógica en dos columnas dinámicas de contraste (*Hacer las cosas bien* vs. *Hacer las cosas correctas*), tarjetas de fricción operativa en residencias y sello institucional de docentes de referencia (*Dra. Susana Salomón & Dra. Laura Piovano*).
+- **Nueva Pista Sonora Warm Focus Synthesizer:**
+  - Banda sonora original armónica (`bgm-warm-focus-45s.wav`) basada en progresiones de acordes de piano eléctrico y sintetizador (*Dmaj9 -> Gmaj7 -> Bm7 -> Asus4*), con pulsos de marimba y calibrada a 45.0s y volumen 18%.
+- **Nueva Plantilla Registrada:**
+  - `templates/unidad2-gestion-vs-administracion-45s.html`: Video formativo panorámico (16:9, 45s, 1080p) con carril de subtítulos sincronizado palabra a palabra.
+
 ## [v1.2.0] - 2026-10-19: Estilo Clinical Healthcare & Nueva Pista Sonora
 ### 🧠 Nuevas Habilidades y Arquetipos
 - **Nuevo Estilo Estético "Clinical Teal & Obsidian":**
