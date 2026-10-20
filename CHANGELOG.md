@@ -4,6 +4,20 @@ Todas las habilidades, descubrimientos técnicos y plantillas de este proyecto s
 
 ---
 
+## [v1.7.0] - 2026-10-19: Video de Inducción Rápida y Alocución Completa (3:30 min / 210s)
+### 🧠 Nuevas Habilidades y Arquetipos
+- **Arquetipo de Inducción Rápida Institucional (210s - 3m30s):**
+  - Composición de media duración (6.300 fotogramas a 30 FPS) estructurada en 4 bloques temporales exactos:
+    - *Bloque 1 (00:00 - 00:45):* Bienvenida, mito de la gratuidad y costo de oportunidad bioético.
+    - *Bloque 2 (00:45 - 01:30):* Ficha operativa (8 semanas, 60 hs reloj, 100% virtual asincrónica) y regla tripartita de la Circular N° 5 (*Clase ➔ Lectura ➔ Práctica*).
+    - *Bloque 3 (01:30 - 02:45):* Recorrido secuencial por las 8 unidades del programa académico del Lic. Gustavo Muñoz Gatón.
+    - *Bloque 4 (02:45 - 03:30):* Sistema de *Doble Candado Automatizado* (Examen Final Integrador ≥ 70% + Encuesta de Calidad) y cierre institucional.
+  - Carril de subtítulos sincronizado en 8 segmentos continuos.
+- **Banda Sonora Extendida de 210s:**
+  - `bgm-induccion-esalud-210s.wav`: Progresión armónica (*Dmaj7 -> F#m7 -> Gmaj7 -> A6*) con pulsos rítmicos de marimba, masterizada y calibrada a 210 segundos exactos a volumen 18%.
+- **Nueva Plantilla Registrada:**
+  - `templates/induccion-rapida-economia-salud-210s.html`
+
 ## [v1.6.0] - 2026-10-19: Integración NotebookLM & Video Oficial de Programa Académico
 ### 🧠 Nuevas Habilidades y Arquetipos
 - **Integración con NotebookLM vía CLI (`nlm`):**
