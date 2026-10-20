@@ -4,6 +4,16 @@ Todas las habilidades, descubrimientos técnicos y plantillas de este proyecto s
 
 ---
 
+## [v1.2.0] - 2026-10-19: Estilo Clinical Healthcare & Nueva Pista Sonora
+### 🧠 Nuevas Habilidades y Arquetipos
+- **Nuevo Estilo Estético "Clinical Teal & Obsidian":**
+  - Paleta cromática médica (#06151f base, acentos #38bdf8 cyan y #2dd4bf teal) con tarjetas translúcidas de cristal esmerilado (`backdrop-filter: blur(16px)`).
+- **Nuevo Paisaje Sonoro:**
+  - Banda sonora ambiental melódica tecnológica (`bgm-ambient-40s.wav`) en loop determinista a 40 segundos.
+  - Efectos de sonido clínicos: chime de entrada, pop suave en transiciones y campana de certificación.
+- **Nueva Plantilla:**
+  - `templates/gestion-salud-40s.html`: Video instructivo de 40 segundos para diplomados y cursos de posgrado en salud.
+
 ## [v1.1.0] - 2026-10-19: Consolidación Inicial EdTech & Moodle LMS
 ### 🧠 Nuevas Habilidades y Aprendizajes Adquiridos
 - **Resolución de Bloqueos de Layout en Chrome Headless:**
