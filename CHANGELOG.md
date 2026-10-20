@@ -4,6 +4,18 @@ Todas las habilidades, descubrimientos técnicos y plantillas de este proyecto s
 
 ---
 
+## [v1.8.0] - 2026-10-19: Integración de Locución Neuronal Rioplatense (Voz Elena) en Toda la Suite
+### 🧠 Nuevas Habilidades y Arquetipos
+- **Motor TTS Neuronal en Español Rioplatense (`edge-tts` con `es-AR-ElenaNeural`):**
+  - Incorporación de pistas de voz en off habladas reales (10 audios `.mp3` sintetizados a 44.1 kHz).
+  - Tono andragógico, profesional, cercano y claro, respetando la cadencia y fonética del español rioplatense (Mendoza / Argentina).
+- **Mezcla Sonora y Ducking Automático de BGM:**
+  - Atenuación de las bandas sonoras de fondo (`data-volume="0.12"`) y balance de la pista vocal a volumen pleno (`data-volume="1.0"`) para garantizar inteligibilidad absoluta.
+- **Re-renderizado Completo de la Suite:**
+  - Las 7 unidades temáticas (U2 a U8), la Presentación del Programa Académico (60s) y la Inducción Rápida Oficial (210s) cuentan ahora con locución de narrador en off completa.
+- **Nuevos Assets de Audio Registrados:**
+  - `assets/audio/vo-*.mp3` (10 archivos de voz neuronal rioplatense de alta fidelidad).
+
 ## [v1.7.0] - 2026-10-19: Video de Inducción Rápida y Alocución Completa (3:30 min / 210s)
 ### 🧠 Nuevas Habilidades y Arquetipos
 - **Arquetipo de Inducción Rápida Institucional (210s - 3m30s):**
