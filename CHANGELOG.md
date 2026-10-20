@@ -4,6 +4,21 @@ Todas las habilidades, descubrimientos técnicos y plantillas de este proyecto s
 
 ---
 
+## [v1.9.0] - 2026-10-19: Locución Neuronal Elena en Videos de Aula Piloto EducAI y Kit Makeover
+### 🎙️ Nuevas Habilidades y Re-renderizados
+- **Voz en Off Neuronal para los Videos Fundacionales de EducAI:**
+  - Se completó la inspección y síntesis de voz en off con **Elena (`es-AR-ElenaNeural`)** para todos los videos iniciales de la suite EducAI:
+    1. `EducAI_Moodle_Completo_1080p.mp4` (`moodle-showcase-60s.html`): Narración de impacto comparando el depósito de PDFs vs. la Estructura Tripartita.
+    2. `EducAI_Moodle_Completo_Vertical_9-16.mp4` (`moodle-vertical-9-16.html`): Adaptación vertical para Reels/TikTok con locución de Elena.
+    3. `EducAI_Kit_Makeover_Presentacion_Completa.mp4` (`moodle-makeover-90s.html`): Locución de 8 escenas explicando el relevamiento, auditoría con IA, Libro Moodle, gamificación SCORM y plazos de entrega.
+    4. `Guia_Oficial_Integracion_EducAI_Moodle_120s.mp4` (`moodle-tutorial-120s.html`): Tutorial técnico paso a paso con locución pedagógica y sincronización con el cursor reactivo animado.
+- **Ducking de Música de Fondo:**
+  - Ajuste estandarizado a `data-volume="0.12"` para el fondo musical, garantizando claridad absoluta en la voz de Elena (`data-volume="1.0"`).
+- **Nuevos Assets de Audio Registrados:**
+  - `assets/audio/vo-makeover-90s.mp3`
+  - `assets/audio/vo-tutorial-120s.mp3`
+  - `assets/audio/vo-moodle-showcase-60s.mp3`
+
 ## [v1.8.0] - 2026-10-19: Integración de Locución Neuronal Rioplatense (Voz Elena) en Toda la Suite
 ### 🧠 Nuevas Habilidades y Arquetipos
 - **Motor TTS Neuronal en Español Rioplatense (`edge-tts` con `es-AR-ElenaNeural`):**
