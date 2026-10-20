@@ -4,6 +4,22 @@ Todas las habilidades, descubrimientos técnicos y plantillas de este proyecto s
 
 ---
 
+## [v1.6.0] - 2026-10-19: Integración NotebookLM & Video Oficial de Programa Académico
+### 🧠 Nuevas Habilidades y Arquetipos
+- **Integración con NotebookLM vía CLI (`nlm`):**
+  - Conexión dinámica al cuaderno *curso2. residentes.Econ.salud* (`71ff8d57-211a-407e-8fc2-728114e4a70c`).
+  - Extracción en tiempo real de la fuente oficial *01_PROGRAMA_ACADEMICO_ECONOMIA_DE_LA_SALUD_2026.md* (`0bd50821-1ba0-4603-8574-76939e34642c`, 26.022 caracteres).
+- **Arquetipo de Presentación de Programa Académico Oficial (60s):**
+  - Ficha institucional con 4 métricas clave: 8 semanas, 60 horas reloj acreditadas, 100% virtual asincrónica, Leyes Provinciales 7857/9526.
+  - Síntesis de competencias andragógicas: Costo de oportunidad bioético, fallas de Arrow (1963) y evaluación económica (QALYs/AVAC).
+  - Recorrido completo por las 8 Unidades del curso del Lic. Gustavo Muñoz Gatón.
+  - Diagrama de flujo del *Sistema de Doble Candado Automatizado* (Examen Final Integrador ≥ 70% + Encuesta de Calidad obligatoria).
+  - Línea de tiempo Gantt de cursado semana a semana.
+- **Nueva Banda Sonora:**
+  - `bgm-institucional-esalud-60s.wav`: Progresión armónica serena e inspiradora (*Cmaj9 -> Em7 -> Fmaj9 -> G6*) con pulsos de marimba y calibrada a 60.0 segundos a volumen 18%.
+- **Nueva Plantilla Registrada:**
+  - `templates/programa-academico-economia-salud-60s.html`
+
 ## [v1.5.0] - 2026-10-19: Serie Completa de Microlearning en Gestión de Salud (Unidades 2 a 8)
 ### 🧠 Nuevas Habilidades, Diseños Temáticos y Audio Suite
 - **Consolidación de la Serie Formativa Completa (Unidades 2 a 8):**
