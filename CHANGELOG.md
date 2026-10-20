@@ -4,6 +4,29 @@ Todas las habilidades, descubrimientos técnicos y plantillas de este proyecto s
 
 ---
 
+## [v1.5.0] - 2026-10-19: Serie Completa de Microlearning en Gestión de Salud (Unidades 2 a 8)
+### 🧠 Nuevas Habilidades, Diseños Temáticos y Audio Suite
+- **Consolidación de la Serie Formativa Completa (Unidades 2 a 8):**
+  - **Unidad 4 (Ambulatoria):** Solución al fenómeno *No-Show* (35% ausentismo), categorización de agendas y citación escalonada.
+  - **Unidad 5 (Epidemiológica):** Aplicación práctica del *ASIS Mendoza* para toma de decisiones y asignación de recursos.
+  - **Unidad 6 (Legal & Seguridad):** La historia clínica como documento legal y modelo *Reason* de causas raíz en el error médico.
+  - **Unidad 7 (Planificación):** Articulación de los 3 niveles directivos (*Estratégico, Táctico y Operacional*).
+  - **Unidad 8 (Bioética & Costos):** Principio de *Costo de Oportunidad* y justicia distributiva en el hospital público.
+- **Suite de Audio Dedicada (5 Nuevas Pistas Sonoras Originales):**
+  - `bgm-u4-schedule-45s.wav`: Ritmo de agenda y pulsos cronométricos.
+  - `bgm-u5-data-45s.wav`: Ondas analíticas y pulsos de datos demográficos.
+  - `bgm-u6-legal-45s.wav`: Atmósfera solemne y armónicos de seguridad jurídica.
+  - `bgm-u7-strategic-45s.wav`: Progresión armónica de visión de futuro y metas.
+  - `bgm-u8-economics-45s.wav`: Cadencia bioética y balance distributivo.
+- **Calibración de Contraste Accesible WCAG AA:**
+  - Optimización cromática en degradados institucionales y botones CTA para superar el ratio de contraste 3:1 exigido por el motor headless.
+- **Nuevas Plantillas Registradas:**
+  - `templates/unidad4-consultorios-externos-45s.html`
+  - `templates/unidad5-epidemiologia-asis-45s.html`
+  - `templates/unidad6-marco-legal-error-medico-45s.html`
+  - `templates/unidad7-planificacion-en-salud-45s.html`
+  - `templates/unidad8-economia-salud-costos-45s.html`
+
 ## [v1.4.0] - 2026-10-19: Arquetipo de Red Sistémica RISS & Network Synapse BGM
 ### 🧠 Nuevas Habilidades y Arquetipos
 - **Arquetipo de Red Sistémica de Salud (RISS):**
