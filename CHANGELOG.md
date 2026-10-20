@@ -4,6 +4,16 @@ Todas las habilidades, descubrimientos técnicos y plantillas de este proyecto s
 
 ---
 
+## [v1.4.0] - 2026-10-19: Arquetipo de Red Sistémica RISS & Network Synapse BGM
+### 🧠 Nuevas Habilidades y Arquetipos
+- **Arquetipo de Red Sistémica de Salud (RISS):**
+  - Representación visual de nodos asistenciales interconectados: nodo Centro de Salud (CAPS) de primer nivel, nodo Hospital Complejo de tercer nivel y puente interactivo central con derivación y contrarreferencia activa.
+  - Gauge radial de impacto asistencial (medidor de código verde al 70%) para ilustrar la sobrecarga de guardia evitable.
+- **Nueva Pista Sonora Network Synapse Synth:**
+  - Banda sonora original de pulsos sinápticos y sintetizador armónico (`bgm-network-synapse-45s.wav`) en progresión *C#m -> Aadd9 -> E -> B* a 45.0s y volumen 18%.
+- **Nueva Plantilla Registrada:**
+  - `templates/unidad3-hospital-caps-redes-45s.html`: Video formativo panorámico (16:9, 45s, 1080p) con carril de subtítulos sincronizado palabra a palabra.
+
 ## [v1.3.0] - 2026-10-19: Arquetipo Formativo Médico Dual Arena & Warm Focus BGM
 ### 🧠 Nuevas Habilidades y Arquetipos
 - **Arquetipo Comparativo "Dual Arena" (Administración vs. Gestión):**
